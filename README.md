@@ -24,4 +24,4 @@ Start the preliminary data exploration and identify ways to improve the quality 
 **Create a Power Point presentation which outlines the approach we will be taking to identity which of 1000 customers Sprocket Central Pty Ltd should target, based on on this data sets. Explain three pases: Data Exploration, Model Development and Interpreatation.**
 
 ## Module Task 3:
-**Please develop a dashboard that we can present to the client at our meeting.Display your data summary and results of the analuysisin a dashboard. Specifically, your presentation should specify who Sprocket Central Pty Ltd' should be targeting out of the new 1000 customer list.**
+**Please develop a dashboard that we can present to the client at our meeting.Display your data summary and results of the analysis in a dashboard. Specifically, your presentation should specify who Sprocket Central Pty Ltd' should be targeting out of the new 1000 customer list.**

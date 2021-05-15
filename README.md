@@ -18,7 +18,7 @@ The client provided KPMG with 3 datasets:
 Start the preliminary data exploration and identify ways to improve the quality of Sprocket Central Pty Ltd’s data.
 
 ## Module Task 1:
-**Your task is to tgake a look at the following datasets provided by the Sprocket Central Pty Ltd and identity all data quality issues. Once you' ve had a look at these datasets, draft san email to the client identifying all data quality issues.**
+**Your task is to take a look at the following datasets provided by the Sprocket Central Pty Ltd and identity all data quality issues. Once you' ve had a look at these datasets, draft san email to the client identifying all data quality issues.**
 
 ## Module Task 2:
 **Create a Power Point presentation which outlines the approach we will be taking to identity which of 1000 customers Sprocket Central Pty Ltd should target, based on on this data sets. Explain three pases: Data Exploration, Model Development and Interpreatation.**
